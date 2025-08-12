@@ -1,0 +1,3 @@
+Name: Bommidi Rakesh
+Course: BCA
+About GitHub: I learned basics of GitHub like like repositories, commits etc.
